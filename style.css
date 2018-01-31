@@ -1,0 +1,54 @@
+*{
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+img{
+	width:50px;
+	border-radius: 5px;
+}
+
+/************************
+	MAIN IDS
+*/
+#courses{
+	width:200px;
+	float:left;
+}
+#experience{
+	width:300px;
+}
+#edu{
+	width:300px;
+}
+#pubs{
+	width:300px;
+}
+#skills{
+	width:300px;
+}
+#interests{
+	width:300px;
+}
+/************************/
+
+.card{
+	border:2px solid black;
+	height:500px;
+	overflow: scroll;
+	float:left;
+}
+.exp{
+	margin:2px;
+	padding:5px;
+	background-color: #ECECEC;
+}
+
+.course{
+	padding:5px;
+	background-color: #E9D460;
+	margin:3px;
+	width:170px;
+}
+.f{
+	display: inline-block;
+}
